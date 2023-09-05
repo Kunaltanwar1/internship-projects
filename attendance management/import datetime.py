@@ -2,7 +2,7 @@ import datetime
 
 class attendance_project_system:
        def 	_init_(self):
-              self.u={"kunal":""}
+              self.u={"kunal":"kunal"}
 
               self.students_records ={}
               self.students_attendance ={}
